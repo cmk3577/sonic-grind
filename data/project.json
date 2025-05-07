@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "cmk3577",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165967247?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "cmk3577",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-05-07T00:20:07.469Z",
-    "updated_at": "2025-05-07T00:20:07.469Z"
-  }
+    "updated_at": "2025-05-07T00:20:07.469Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "56991ea1-0587-4abc-800d-4c45a759dcff": {
+      "content": [],
+      "created_at": "2025-05-07T00:20:07.487Z",
+      "created_by": "cmk3577",
+      "title": "The Morning Grind and Social Production of Sonic Space",
+      "updated_at": "2025-05-07T00:20:07.487Z",
+      "updated_by": "cmk3577",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "56991ea1-0587-4abc-800d-4c45a759dcff"
+  ]
 }
